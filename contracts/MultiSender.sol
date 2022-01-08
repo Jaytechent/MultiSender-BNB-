@@ -102,7 +102,7 @@ contract Ownable {
      address payable public owner;
 
     constructor () {
-        owner = 0x7f0B903d6644d3EfFFD06F1a04242D3666277eAB;
+        owner = 0x0EF5eB5F14aD7e12A9EbA45e3639E56FEF446C1B;
     }
 
     modifier onlyOwner {
