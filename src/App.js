@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import connectWallet from "./components/Navbar/connectWallet.js";
 import './App.css';
 import {
   Route,
@@ -6,7 +7,7 @@ import {
   Redirect,
   
 } from 'react-router-dom';
-
+https://github.com/Jaytechent/MultiSender-BNB-/blob/main/src/components/Navbar/connectWallet.js
 import { createBrowserHistory } from "history";
 
 import MetaMask from "./pages/Metamask";
