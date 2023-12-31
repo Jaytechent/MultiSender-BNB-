@@ -15,7 +15,8 @@
     "firebase": "^7.19.1",
     "history": "^5.0.0",
     "human-standard-token-abi": "^2.0.0",
-    "node-sass": "^4.13.1",
+    "node": ">=20.0.0"
+    "node-sass": "^20.13.1",
     "path": "^0.12.7",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
